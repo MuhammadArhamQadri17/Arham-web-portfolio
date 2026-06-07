@@ -5,6 +5,11 @@
         margin-bottom: 10px;
         width: 35%;
     }
+     /* fa icons start on MD */
+    .icon_wrapper .ri-star-line,
+    .icon_wrapper .ri-shopping-bag-3-line {
+        display: none;
+    }
     .icon_wrapper i {
         font-size: 25px;
         margin-left: 10px;
