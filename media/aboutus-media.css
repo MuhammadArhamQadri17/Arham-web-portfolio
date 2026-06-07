@@ -224,13 +224,16 @@ padding: 10px 30px;
     font-size: 0.8rem;
 }
 .box-1 {
-    padding: 0 !important;
-    font-family: normal-font;
-}
-.box-2 {
-    padding: 0 !important;
-    font-family: normal-font;
-}
+        padding: 0 !important;
+        font-family: normal-font;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .box-2 {
+        padding: 0 !important;
+        font-family: normal-font;
+    }
 }
 /* tab screen start */
 @media (max-width: 768px) {
