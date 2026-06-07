@@ -236,7 +236,7 @@ padding: 10px 30px;
     }
 }
 /* tab screen start */
-@media (max-width: 768px) {
+@media (min-width: 577px) and (max-width: 768px) {
     /* fa icons start on MD */
     .icon_wrapper .ri-star-line,
     .icon_wrapper .ri-shopping-bag-3-line {
