@@ -69,8 +69,7 @@
         letter-spacing: 1px;
     }
     .skin-wrapper-2 {
-        min-height: 60vh;
-        margin-top: 12rem;
+        min-height: 55vh;
     }
     .skin-wrapper-2 .card-body p {
         font-size: clamp(1rem, 2vw, 2rem);
