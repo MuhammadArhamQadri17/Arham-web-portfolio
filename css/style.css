@@ -25,6 +25,10 @@ body {
     overflow-x: hidden;
     width: 100%;
 }
+button {
+  -webkit-appearance: none; /* Safari ki default styling hatane ke liye */
+  color: black; /* Ya aapka jo bhi manpasand color ho */
+}
 /* top heading */
 .row .heading {
     background-color: #4E7661;
