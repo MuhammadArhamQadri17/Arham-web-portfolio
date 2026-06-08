@@ -9,6 +9,7 @@ Welcome to my first portfolio website! This project showcases my journey in web 
 ## 🛠️ Technologies & Skills
 * **HTML5 & CSS3**
 * **Bootstrap**
+* **AI-Assisted Development: I utilize AI to generate efficient CSS animations, complex layouts, and unit testing code. This enables rapid iteration and high-quality output while maintaining clean, readable codebases.**
 * **JavaScript (Currently learning & implementing)**
 
 ## 💡 About This Project
