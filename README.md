@@ -13,4 +13,4 @@ Welcome to my first portfolio website! This project showcases my journey in web 
 * **JavaScript (Currently learning & implementing)**
 
 ## 💡 About This Project
-This portfolio is completely responsive and built from scratch to demonstrate my front-end development skills.
+This portfolio is completely responsive and built from scratch to demonstrate my front-end development skills with logic.
